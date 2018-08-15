@@ -1,0 +1,593 @@
+
+***************************************************************************************
+	***********PatientGuid:C92B83CB220D449B9720BD79CBDC9DAA ***********
+****************************************************************************************
+
+Comparing match results for donor: A37FA5B4771B4FA385C2ED5898579092
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='19', XOF6_MCAT_ID='19', XOF10_MCAT_ID='18', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='6', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='0', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='37', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='53', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='49', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='37', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='53', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:19Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:19Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:18Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:6Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: D22B7D0465D04994A92CED5898579092
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='14', XOF6_MCAT_ID='14', XOF10_MCAT_ID='12', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='8', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='1', LOC_7OF8_RTE='0', LOC_6OF8_RTE='1', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='0', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='47', DQB1_MATCH_RATE='1', DQB1_MATCH_GRADE_NBR='255', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='1', C_MATCH_GRADE_NBR='255', CREATE_DTE='null', B_MATCH_RATE='0', B_MATCH_GRADE_NBR='43', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='1', LOC_7OF8_RTE='0', LOC_6OF8_RTE='1', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='47', DQB1_MATCH_RATE='1', DQB1_MATCH_GRADE_NBR='255', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='1', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='0', B_MATCH_GRADE_NBR='43', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:14Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:14Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:12Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:8Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: A96F1539C06849B3BE945BFCD1FEB1B3
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='10', XOF6_MCAT_ID='10', XOF10_MCAT_ID='18', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='5', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='0', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='47', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='53', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='49', CREATE_DTE='null', B_MATCH_RATE='0', B_MATCH_GRADE_NBR='45', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='48', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='47', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='53', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='0', B_MATCH_GRADE_NBR='45', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='48', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:10Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:10Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:18Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:5Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: F2BF8C2BD2E94132816CED5898579092
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='16', XOF6_MCAT_ID='16', XOF10_MCAT_ID='14', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='8', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='1', LOC_7OF8_RTE='0', LOC_6OF8_RTE='99', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='99', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='53', DQB1_MATCH_RATE='1', DQB1_MATCH_GRADE_NBR='255', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='49', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='1', LOC_7OF8_RTE='0', LOC_6OF8_RTE='99', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='53', DQB1_MATCH_RATE='1', DQB1_MATCH_GRADE_NBR='255', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:16Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:16Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:14Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:8Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: 9A54470CA785493C8F28ED5898579092
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='6', XOF6_MCAT_ID='6', XOF10_MCAT_ID='2', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='9', LOC_9OF10_RTE='1', LOC_8OF8_RTE='0', LOC_8OF10_RTE='1', LOC_7OF8_RTE='1', LOC_6OF8_RTE='13', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='1', DRB1_MATCH_RATE='1', DRB1_MATCH_GRADE_NBR='57', DQB1_MATCH_RATE='1', DQB1_MATCH_GRADE_NBR='255', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='12', C_MATCH_GRADE_NBR='255', CREATE_DTE='null', B_MATCH_RATE='96', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='41', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='1', LOC_8OF8_RTE='0', LOC_8OF10_RTE='1', LOC_7OF8_RTE='1', LOC_6OF8_RTE='13', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='1', DRB1_MATCH_GRADE_NBR='57', DQB1_MATCH_RATE='1', DQB1_MATCH_GRADE_NBR='255', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='12', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='96', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='41', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:6Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:6Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:2Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:9Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: 2C656D7698F82CC9E0537964970A0A2E
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='9', XOF6_MCAT_ID='9', XOF10_MCAT_ID='18', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='6', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='0', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='47', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='49', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='49', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='49', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='47', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='49', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='57', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='49', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:9Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:9Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:18Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:6Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: DBD659E51F964AE8A9A2ED5898579092
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='9', XOF6_MCAT_ID='9', XOF10_MCAT_ID='18', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='6', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='0', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='46', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='53', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='49', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='59', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='49', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='0', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='0', DRB1_MATCH_GRADE_NBR='46', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='53', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='99', B_MATCH_GRADE_NBR='59', A_MATCH_RATE='0', A_MATCH_GRADE_NBR='49', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:9Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:9Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:18Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
+getLOC_MATCH_CNT is null in Hap3
+
+LOC_MATCH_CNT does not match
+Hap3 value:6Hap4 value:null
+getLOC_9OF10_RTE is null in Hap3
+
+getLOC_9OF10_RTE is null in Hap4
+
+getLOC_8OF8_RTE is null in Hap3
+
+getLOC_8OF8_RTE is null in Hap4
+
+getLOC_8OF10_RTE is null in Hap3
+
+getLOC_8OF10_RTE is null in Hap4
+
+getLOC_7OF8_RTE is null in Hap3
+
+getLOC_7OF8_RTE is null in Hap4
+
+getLOC_10OF10_RTE is null in Hap3
+
+getLOC_10OF10_RTE is null in Hap4
+
+getDRB1_MATCH_RATE is null in Hap3
+
+getDRB1_MATCH_RATE is null in Hap4
+
+getDRB1_MATCH_GRADE_NBR is null in Hap3
+
+getDRB1_MATCH_GRADE_NBR is null in Hap4
+
+getDQB1_MATCH_RATE is null in Hap3
+
+getDQB1_MATCH_RATE is null in Hap4
+
+getDQB1_MATCH_GRADE_NBR is null in Hap3
+
+getDQB1_MATCH_GRADE_NBR is null in Hap4
+
+getC_MATCH_RATE is null in Hap3
+
+getC_MATCH_RATE is null in Hap4
+
+getB_MATCH_RATE is null in Hap3
+
+getB_MATCH_RATE is null in Hap4
+
+getB_MATCH_GRADE_NBR is null in Hap3
+
+getB_MATCH_GRADE_NBR is null in Hap4
+
+getA_MATCH_RATE is null in Hap3
+
+getA_MATCH_RATE is null in Hap4
+
+getA_MATCH_GRADE_NBR is null in Hap3
+
+getA_MATCH_GRADE_NBR is null in Hap4
+
+Comparing match results for donor: 9279D18FACD39F4FEAAFA502C8602E1C
+
+Hap3:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='11', XOF6_MCAT_ID='11', XOF10_MCAT_ID='18', UPDATE_DTE='null', SIX_MATCH_RATE='0', NMDP_DID='null', LOC_MATCH_CNT='7', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='99', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='0', FIVE_MATCH_RATE='99', DRB1_MATCH_RATE='99', DRB1_MATCH_GRADE_NBR='63', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='42', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='48', CREATE_DTE='null', B_MATCH_RATE='0', B_MATCH_GRADE_NBR='48', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='255'}
+Hap4:DonorMatchResult{SubjectGuid='null', phenotypeId='null', XOF8_MCAT_ID='null', XOF6_MCAT_ID='null', XOF10_MCAT_ID='null', UPDATE_DTE='null', SIX_MATCH_RATE='null', NMDP_DID='null', LOC_MATCH_CNT='null', LOC_9OF10_RTE='0', LOC_8OF8_RTE='0', LOC_8OF10_RTE='0', LOC_7OF8_RTE='0', LOC_6OF8_RTE='99', LOC_10OF10_RTE='0', FOUR_MATCH_RATE='null', FIVE_MATCH_RATE='null', DRB1_MATCH_RATE='99', DRB1_MATCH_GRADE_NBR='63', DQB1_MATCH_RATE='0', DQB1_MATCH_GRADE_NBR='42', DONOR_MATCH_RESULT_IID='null', C_MATCH_RATE='0', C_MATCH_GRADE_NBR='null', CREATE_DTE='null', B_MATCH_RATE='0', B_MATCH_GRADE_NBR='48', A_MATCH_RATE='99', A_MATCH_GRADE_NBR='57', AB_MCAT_ID='null'}
+
+XOF8_MCAT_ID is null in Hap3
+
+XOF8_MCAT_ID does not match
+Hap3 value:11Hap4 value:null
+getXOF6_MCAT_ID is null in Hap3
+
+XOF6_MCAT_ID does not match
+Hap3 value:11Hap4 value:null
+getXOF10_MCAT_ID is null in Hap3
+
+XOF10_MCAT_ID does not match
+Hap3 value:18Hap4 value:null
+getSIX_MATCH_RATE is null in Hap3
+
+SIX_MATCH_RATE does not match
+Hap3 value:0Hap4 value:null
